@@ -1,0 +1,15 @@
+2016-09-14	01:43:10 pm	2	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	mysqli_select_db() expects parameter 1 to be mysqli, string given
+2016-09-14	01:43:10 pm	2	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	mysqli_error() expects exactly 1 parameter, 0 given
+2016-09-14	01:43:10 pm	1024	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	
+2016-09-14	01:43:10 pm	8	94	C:\xampp\htdocs\TravelPortal\sys\engine.sys.php	Undefined index: sid
+2016-09-14	01:43:36 pm	2	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	mysqli_select_db() expects parameter 1 to be mysqli, string given
+2016-09-14	01:43:36 pm	2	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	mysqli_error() expects exactly 1 parameter, 0 given
+2016-09-14	01:43:36 pm	1024	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	
+2016-09-14	01:43:36 pm	8	94	C:\xampp\htdocs\TravelPortal\sys\engine.sys.php	Undefined index: sid
+2016-09-14	01:54:45 pm	2	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	mysqli_select_db() expects parameter 1 to be mysqli, string given
+2016-09-14	01:54:45 pm	2	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	mysqli_error() expects exactly 1 parameter, 0 given
+2016-09-14	01:54:45 pm	1024	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	
+2016-09-14	01:54:45 pm	8	94	C:\xampp\htdocs\TravelPortal\sys\engine.sys.php	Undefined index: sid
+2016-09-14	02:01:50 pm	2	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	mysqli_select_db() expects parameter 1 to be mysqli, string given
+2016-09-14	02:01:50 pm	2	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	mysqli_error() expects exactly 1 parameter, 0 given
+2016-09-14	02:01:50 pm	1024	19	C:\xampp\htdocs\TravelPortal\sys\db.class.php	

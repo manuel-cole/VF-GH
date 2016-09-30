@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ef495271-9d7e-451f-8e3c-02f2d03a5561" name="TestServer" url="http://localhost">
+        <fileTransfer mountedRoot="Z:\webroot\auction\TravelPortal" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
